@@ -1,0 +1,330 @@
+/* Extra Small Device */
+
+@media(max-width:575.98px){
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    #banner {
+        padding-top: 150px;
+        padding-bottom: 200px;
+    }
+    .banner_item h1{
+        font-size: 100px;
+    }
+    .banner_item h2{
+        font-size: 80px;
+    }
+    .wel_itm{
+        padding-top: 220px;
+    }
+    #welcome{
+        padding-bottom: 50px;
+    }
+    #program{
+        padding-top: 0px;
+        padding-bottom: 250px;
+    }
+    .pro_itm h3{
+        font-size: 32px;
+    }
+    .pro_itm a{
+        margin-bottom: 20px;
+    }
+    .event_btn{
+        text-align: center;
+    }
+    #form{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .form_cont{
+        padding-top: 20px;
+    }
+    .line_5 a{
+        padding: 20px 120px;
+        font-size: 12px;
+    }
+    .event_cont h3{
+        font-size: 32px;
+    }
+    .team_img{
+        margin-bottom: 20px;
+    }
+    .team_overly h3{
+        padding-top: 150px;
+        font-size: 20px;
+    }
+    .team_overly h4{
+        font-size: 10px;
+    }
+    .team_overly{
+        position: absolute;
+        top: 0px;
+        left: 15px;
+        height: 210px;
+        width: 170px;
+    }
+    #gallery{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .gal_txt p{
+        padding-bottom: 30px;
+    }
+    .gal_img{
+        margin-bottom: 10px;
+    }
+    #about{
+        padding-bottom: 50px;
+    }
+    .about_img{
+        padding-bottom: 280px;
+    }
+    .about_icns{
+        top: 250px;
+    }
+    .about_icnn{
+        top: 400px;
+    }
+    #footer{
+        padding-top: 30px;
+        padding-bottom: 5px;
+    }
+    .footer_itm{
+        text-align: center;
+    }
+    .finish_txt p{
+        font-size: 8px;
+    }
+}
+
+/* Small Device */
+
+@media(min-width:576px) and (max-width:767.98px){
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    #banner {
+        padding-top: 150px;
+        padding-bottom: 200px;
+    }
+    .banner_item h1{
+        font-size: 100px;
+    }
+    .banner_item h2{
+        font-size: 80px;
+    }
+    .wel_itm{
+        padding-top: 500px;
+    }
+    #welcome{
+        padding-bottom: 20px;
+    }
+    #program{
+        padding-bottom: 250px;
+    }
+    .pro_itm a{
+        margin-bottom: 20px;
+    }
+    .event_btn{
+        text-align: center;
+    }
+    .form_cont{
+        padding-top: 20px;
+    }
+    .line_5 a{
+        font-size: 20px;
+    }
+    .team_overly{
+        position: absolute;
+        top: 0px;
+        left: 15px;
+        height: 520px;
+        width: 427px;
+    }
+    #gallery{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .gal_txt p{
+        padding-bottom: 30px;
+    }
+    .gal_img{
+        margin-bottom: 10px;
+    }
+    #about{
+        padding-bottom: 50px;
+    }
+    .about_img{
+        padding-bottom: 440px;
+    }
+    .about_icns{
+        top: 190px;
+    }
+    .about_icnn{
+        top: 300px;
+    }
+    #footer{
+        padding-top: 30px;
+        padding-bottom: 5px;
+    }
+    .footer_itm{
+        text-align: center;
+    }
+    .finish_txt p{
+        font-size: 8px;
+    }
+}
+
+/* Medium Device */
+
+@media(min-width:768px) and (max-width:991.98px){
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    #banner {
+        padding-top: 150px;
+        padding-bottom: 200px;
+    }
+    .banner_item h1{
+        font-size: 100px;
+    }
+    .banner_item h2{
+        font-size: 80px;
+    }
+    .wel_itm{
+        padding-top: 700px;
+    }
+    #welcome{
+        padding-bottom: 20px;
+    }
+    #program{
+        padding-bottom: 250px;
+    }
+    .pro_itm a{
+        margin-bottom: 20px;
+    }
+    .event_btn{
+        text-align: center;
+    }
+    .form_cont{
+        padding-top: 20px;
+    }
+    .line_5 a{
+        font-size: 20px;
+    }
+    .team_overly{
+        position: absolute;
+        top: 0px;
+        left: 15px;
+        height: 800px;
+        width: 620px;
+    }
+    .team_overly h3{
+        padding-top: 600px;
+        font-size: 24px;
+    }
+    .team_overly h4{
+        font-size: 18px;
+    }
+    #gallery{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .gal_txt p{
+        padding-bottom: 30px;
+    }
+    .gal_img{
+        margin-bottom: 10px;
+    }
+    #about{
+        padding-bottom: 50px;
+    }
+    .about_img{
+        padding-bottom: 600px;
+    }
+    .about_icns{
+        top: 190px;
+    }
+    .about_icnn{
+        top: 300px;
+    }
+    #footer{
+        padding-top: 30px;
+        padding-bottom: 5px;
+    }
+    .footer_itm{
+        text-align: center;
+    }
+    .finish_txt p{
+        font-size: 12px;
+    }
+}
+
+/* Large Device */
+
+@media(min-width:992px) and (max-width:1199.98px){
+    #welcome{
+        padding-bottom: 20px;
+    }
+    #program{
+        padding-bottom: 150px;
+    }
+    .event_btn{
+        text-align: center;
+    }
+    .event_btn a{
+        font-size: 18px;
+    }
+    .form_cont{
+        padding-top: 20px;
+    }
+    .line_5 a{
+        font-size: 20px;
+    }
+    .team_overly{
+        position: absolute;
+        top: 0px;
+        left: 15px;
+        height: 320px;
+        width: 300px;
+    }
+    .team_overly h3{
+        padding-top: 220px;
+    }
+    #gallery{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .gal_txt p{
+        padding-bottom: 30px;
+    }
+    #about{
+        padding-bottom: 20px;
+    }
+    .about_icns{
+        top: 230px;
+    }
+    .about_icnn{
+        top: 370px;
+    }
+    #footer{
+        padding-top: 30px;
+        padding-bottom: 5px;
+    }
+    .footer_itm a{
+        font-size: 14px;
+    }
+    .finish_txt p{
+        font-size: 10px;
+    }
+}
